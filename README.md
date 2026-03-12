@@ -1,72 +1,55 @@
-📊 Project Overview
+# India vs New Zealand – T20 Match Performance Dashboard
+## Project Overview
 
 This project analyzes the T20 match performance between India and New Zealand using an interactive Power BI dashboard.
-
 The dashboard provides insights into batting performance, bowling performance, and overall match statistics to identify key players and match impact.
-
 This project demonstrates sports analytics, data visualization, and dashboard storytelling skills.
-📷 Dashboard Visualizations
-🏏 Overall Match Dashboard
+
+## Dashboard Visualizations
+
+### Overall Match Dashboard
 
 This dashboard provides a complete match overview, including total runs, wickets, strike rate, boundary statistics, and team contribution.
-![teamperformance](teamperformance.jpg)
-Key metrics shown:
+![Overall Dashboard](teamperformance.png)
 
+###Key metrics shown:
 Total Runs
-
 Total Wickets
-
 Strike Rate
-
 Total 4s and 6s
-
 Team run distribution
-India Batting vs New Zealand Bowling
 
+###India Batting vs New Zealand Bowling
 This dashboard analyzes India's batting performance against New Zealand bowlers
-![Dashboard](India%20Batting%20Vs%20New%20Zealand%20Bowling.jpg)
-Insights include:
+![India Batting]India%20Batting%20Vs%20New%20Zealand%20Bowling.png)
 
+###Insights include:
 Top run scorers for India
-
 Batting strike rate
-
 Boundary contributions
-
 Bowling performance of New Zealand bowlers
 
- India Bowling vs New Zealand Batting
-
+### India Bowling vs New Zealand Batting
 This dashboard focuses on India's bowling performance against New Zealand's batting lineup.
-![Dashboard](India%20Bowling%20Vs%20New%20Zealand%20Battting.jpg)
-Insights include:
+![India Bowling](India%20Bowling%20Vs%20New%20Zealand%20Battting.png)
 
+###Insights include:
 Top wicket-taking bowlers
-
 Bowling economy rates
-
 New Zealand batting contributions
 
-📊 Key Match Insights
-
+### Key Match Insights
 Highest Scorer: Ishan Kishan – 103 runs
-
 Best Bowler: Arshdeep Singh – 5 wickets
-
 India scored 55% of total runs
-Tools & Technologies
 
+###Tools & Technologies
 Power BI – Data visualization and dashboard development
-
 Microsoft Excel – Data cleaning and preparation
 
-🎯 Project Objective
-
+## Project Objective
 The objective of this project is to:
-
 Analyze cricket match performance using data
-
 Build interactive sports analytics dashboards
-
 Practice data storytelling with Power BI
 
